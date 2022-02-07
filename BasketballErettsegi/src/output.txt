@@ -1,0 +1,14 @@
+3. Feladat: Real Madrid: Hazai: 23, Idegen: 24
+4. Feladat: Volt döntetlen? Nem
+5. Feladat: barcelonai csapat neve: Winterthur F.C. Barcelona
+6. Feladat: 
+		7up Joventut-Breogán Lugo (97:83)
+		Gran Canaria-Caja San Fernando (77:61)
+		Real Madrid-Etosa Alicante (81:61)
+		Ricoh Manresa-Casademont Girona (97:82)
+		Tau Cerámica-Winterthur F.C. Barcelona (72:79)
+		Unelco Tenerife-Unicaja (72:99)
+7. Feladat: 
+		Palacio Vistalegre: 44
+		Fernando Buesa Arena: 24
+		Pal. De Deportes Jose Ma Martin Carpena: 22
